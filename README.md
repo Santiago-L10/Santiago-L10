@@ -4,14 +4,12 @@
 
 ### 🧑‍💻 **About Me**
 
+I am a Software Engineer in progress, I want to learn more about this technological world and help develop different programs and projects with my future knowledge.
+
 - 📍 **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 🇨🇴  
-- 📧 **Email:** [jn.arias@uniandes.edu.co](mailto:jn.arias@uniandes.edu.co) 
-- 🎓 **Studies:** Physics ⚛️
-- 🏫 **University:** [Universidad de los Andes](https://uniandes.edu.co/en) 📚🇨🇴 
-
-
-
-I’m a physics student passionate about **Data Analysis**, **Machine Learning**, and **Backend Development**. I enjoy solving problems with technology and combining math, science, and programming to build impactful solutions.
+- 📧 **Email:** [santiagoleon009@gmail.com](mailto:santiagoleon009@gmail.com) 
+- 🎓 **Studies:** Software Engineering
+- 🏫 **University:** [Fundacion Universitaria Uninpahu](https://uninpahu.edu.co/) 📚🇨🇴 
 
 ---
 
@@ -25,11 +23,7 @@ I’m a physics student passionate about **Data Analysis**, **Machine Learning**
 ---
 
 ### 🛠️ **Tools & Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -37,6 +31,6 @@ I’m a physics student passionate about **Data Analysis**, **Machine Learning**
 
 I'm always open to networking and professional opportunities. Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-nicolas-arias-gomez-50127b248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-le%C3%B3n-cadena-153514255/)
 
 ---
