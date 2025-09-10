@@ -27,6 +27,12 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 
 ---
 
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
+---
+
 ### 📇 Let's Connect on LinkedIn
 
 I'm always open to networking and professional opportunities. Feel free to reach out:
