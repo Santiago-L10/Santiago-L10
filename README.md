@@ -31,11 +31,9 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Santiago-L10/Santiago-L10](https://github.com/Santiago-L10/Santiago-L10)<br>
 2. ⬆️ Pushed 1 commit(s) to [Santiago-L10/Santiago-L10](https://github.com/Santiago-L10/Santiago-L10)<br>
-3. ⬆️ Pushed 1 commit(s) to [Santiago-L10/Santiago-L10.github.io](https://github.com/Santiago-L10/Santiago-L10.github.io)<br>
-4. 📔 Created new repository [Santiago-L10/Santiago-L10.github.io](https://github.com/Santiago-L10/Santiago-L10.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 6th, 2025, 2:14:59 AM
+Last Updated: Tuesday, October 7th, 2025, 12:45:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
