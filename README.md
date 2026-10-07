@@ -29,11 +29,12 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+1. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_RNN_machine-learning](https://github.com/Santiago-L10/proyecto_RNN_machine-learning)<br>
 2. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+3. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 6th, 2026, 3:40:38 AM
+Last Updated: Wednesday, October 7th, 2026, 3:07:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
