@@ -29,13 +29,14 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
-2. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_RNN_machine-learning](https://github.com/Santiago-L10/proyecto_RNN_machine-learning)<br>
-3. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+1. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_CNN_machine_learning](https://github.com/Santiago-L10/proyecto_CNN_machine_learning)<br>
+2. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+3. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_RNN_machine-learning](https://github.com/Santiago-L10/proyecto_RNN_machine-learning)<br>
 4. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+5. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 12th, 2026, 3:05:01 AM
+Last Updated: Tuesday, October 13th, 2026, 4:20:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
