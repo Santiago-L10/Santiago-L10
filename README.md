@@ -32,11 +32,9 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 1. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_CNN_machine_learning](https://github.com/Santiago-L10/proyecto_CNN_machine_learning)<br>
 2. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
 3. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_RNN_machine-learning](https://github.com/Santiago-L10/proyecto_RNN_machine-learning)<br>
-4. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
-5. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 25th, 2026, 2:07:24 AM
+Last Updated: Monday, October 26th, 2026, 2:07:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
