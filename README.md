@@ -32,11 +32,11 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 1. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
 2. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
 3. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
-4. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_CNN_machine_learning](https://github.com/Santiago-L10/proyecto_CNN_machine_learning)<br>
-5. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+4. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+5. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_CNN_machine_learning](https://github.com/Santiago-L10/proyecto_CNN_machine_learning)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 4th, 2026, 3:44:09 AM
+Last Updated: Thursday, November 5th, 2026, 4:01:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
