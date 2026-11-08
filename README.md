@@ -29,14 +29,14 @@ I am a Software Engineer in progress, I want to learn more about this technologi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [pipejfdv/cursedHouse](https://github.com/pipejfdv/cursedHouse)<br>
-2. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
-3. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
-4. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
-5. ⬆️ Pushed undefined commit(s) to [Santiago-L10/proyecto_mongo](https://github.com/Santiago-L10/proyecto_mongo)<br>
+1. ⬆️ Pushed undefined commit(s) to [pipejfdv/cursedHouse](https://github.com/pipejfdv/cursedHouse)<br>
+2. ⬆️ Pushed undefined commit(s) to [pipejfdv/cursedHouse](https://github.com/pipejfdv/cursedHouse)<br>
+3. ⬆️ Pushed undefined commit(s) to [pipejfdv/cursedHouse](https://github.com/pipejfdv/cursedHouse)<br>
+4. ⬆️ Pushed undefined commit(s) to [pipejfdv/cursedHouse](https://github.com/pipejfdv/cursedHouse)<br>
+5. 🤝 Became collaborator on [pipejfdv/cursedHouse](https://github.com/pipejfdv/cursedHouse)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 7th, 2026, 3:35:48 AM
+Last Updated: Sunday, November 8th, 2026, 3:06:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
